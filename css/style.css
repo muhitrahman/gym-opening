@@ -1,0 +1,44 @@
+
+
+body{
+    background: url(../images/gym1.jpg)
+    no-repeat center center fixed;
+    background-size: cover;
+    /* font-family: 'Charmonman', cursive; */
+       
+}
+div{
+    background-color: silver;
+    opacity: 0.70;
+    width: 50%;
+    /* height: 50px; */
+    margin: 280px auto;
+    text-align: center;
+    border-radius: 25px;
+    
+  
+   
+}
+h1{
+    color: #f96200;
+    font-size: 3em;
+    margin-bottom: -25px;
+   
+}
+p{
+    color: olivedrab;
+    font-size: 1.8em;
+    font-family: 'Charmonman', cursive;
+    margin-bottom: 5px;
+}
+button{
+    background: lightslategrey;
+    padding: 10px;
+    color: white;
+    font-size: 1em;
+    border-radius: 25px;
+    margin-bottom: 3px;
+}
+i{
+    /* font-size: 3em; */
+}
