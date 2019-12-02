@@ -1,7 +1,7 @@
 # gym-opening
 
 
-<img src="Capture.png">
+<img src="Capture.PNg">
 
 
 ## Gym opening soon in your area 
